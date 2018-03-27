@@ -1,0 +1,20 @@
+{
+  "name": "nodejscrashed",
+  "version": "1.0.0",
+  "description": "rttre",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desavera/nodejscrashed.git"
+  },
+  "author": "Mário de Sá Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desavera/nodejscrashed/issues"
+  },
+  "homepage": "https://github.com/desavera/nodejscrashed#readme"
+}
+
